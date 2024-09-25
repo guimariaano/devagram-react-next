@@ -1,4 +1,4 @@
-import avatarImg from '../../public/imagens/avatar.scss';
+import avatarImg from '../../public/imagens/avatar.svg';
 
 export default function Avatar({ src }) {
     const getAvatar = () => {
@@ -17,3 +17,4 @@ export default function Avatar({ src }) {
         />
     );
 }
+  
