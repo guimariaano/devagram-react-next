@@ -53,6 +53,14 @@ input {
     }
   }
 
+  .mensagemValidacao {
+    display: block;
+    color: $vermelho;
+    font-size: 90%;
+    margin-top: -15px;
+    margin-bottom: 15px;
+  }
+
 
 }
 
